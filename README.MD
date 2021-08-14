@@ -8,7 +8,7 @@
   
 - <a href="receitas/Strogonoff_de_Frango.md"> Strogonoff de Frango</a> 
 - <a href="livro-de-receitas/receitas/Jambalaya.md"> Jambalaya </a>
-- <a href="ovo_mexido"> Ovo mechido </a><br>
+- <a href="livro-de-receitas/receitas/ovo_mexido.md"> Ovo mechido </a><br>
 <hr> 
 <h3> 🍪Doces</h3>        <br>
   
