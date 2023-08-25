@@ -1,6 +1,8 @@
-<h1>Livro de Receitas 👩‍🍳👨‍🍳<h1>
+#Livro de Receitas 👩‍🍳👨‍🍳
   
-  ### Coloque a sua Receita aqui !
+### Coloque a sua Receita aqui !
  - Strogonoff de Frango
  - Pudim de Pão
  - Jambalaya
+
+
